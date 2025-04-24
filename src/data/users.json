@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Lorde",
+    "age": 28
+  },
+  {
+    "id": 2,
+    "name": "Charli XCX",
+    "age": 32
+  },
+  {
+    "id": 3,
+    "name": "Chapell Roan",
+    "age": 27
+  },
+  {
+    "id": 4,
+    "name": "Olivia Rodrigo",
+    "age": 22
+  }
+]
